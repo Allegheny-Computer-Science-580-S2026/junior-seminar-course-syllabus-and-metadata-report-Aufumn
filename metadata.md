@@ -124,7 +124,7 @@ Example entries:
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
+- **Resource**: [Paper title, tool name, tutorial link, etc.] https://github.com/Aufumn/-Uppeh-lle-planner
 - **Shared With**: [Individual researcher or entire group]
 - **Purpose**: [Why you shared it and how it was relevant]
 
