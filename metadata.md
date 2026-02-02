@@ -49,7 +49,7 @@ A research group member should type their GitHub username below.
 A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
-`Uppehälle planner`
+- **Research Project Title**: `Uppehälle planner`
 
 
 ## Research Group Contributions
