@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Autumn Davison`
 
 ## Reading Syllabus Pledge
 
@@ -28,7 +28,7 @@ their Junior Seminar Research Project.
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `Aufumn`
 
 ## GitHub Repositories
 
@@ -44,14 +44,13 @@ A research group member should type their GitHub username below.
 
 - **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
 
-## Research Project Title
+## Research Project Title: 
 
 A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
-```text
-Add the Title of Your Junior Seminar Research Project
-```
+`Uppehälle planner`
+
 
 ## Research Group Contributions
 
