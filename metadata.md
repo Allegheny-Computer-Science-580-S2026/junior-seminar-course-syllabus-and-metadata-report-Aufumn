@@ -69,8 +69,6 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/9)]
 
-
-
 - **Researcher Name / Project**: [Coltin Colucci]
 - **Feedback Provided**: \[Feedback on his chapter 2\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
@@ -81,6 +79,11 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Link to their chapter 2 issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/9
 )]
+
+- **Researcher Name / Project**: [Evan Nelson]
+- **Feedback Provided**: \[Feedback on his introduction after completion in week 9\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/13)]
 
 Example entries:
 
