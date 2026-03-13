@@ -76,6 +76,12 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Link to their chapter 2 issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/11)]
 
+- **Researcher Name / Project**: [Coltin Colucci]
+- **Feedback Provided**: \[Feedback on his chapter 3\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Link to their chapter 2 issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/9
+)]
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
