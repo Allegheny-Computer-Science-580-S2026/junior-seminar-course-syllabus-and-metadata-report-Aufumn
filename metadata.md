@@ -85,6 +85,11 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/13)]
 
+- **Researcher Name / Project**: [Issei Hasegawa]
+- **Feedback Provided**: \[Feedback on chapter 1 for junior seminar\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/2)
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
