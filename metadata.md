@@ -90,6 +90,12 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/2)
 
+- **Researcher Name / Project**: [Hannah Brown]
+- **Feedback Provided**: \[Feedback on chapter 2 for junior seminar\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09/issues/5)
+
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
