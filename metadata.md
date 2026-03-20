@@ -95,6 +95,11 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09/issues/5)
 
+- **Researcher Name / Project**: [Evan Nelson]
+- **Feedback Provided**: \[Feedback on his Chapter 4\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/16)]
+
 
 Example entries:
 
