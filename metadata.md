@@ -34,11 +34,11 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal]([https://github.com/Allegheny-Computer-Science-580-S2026/](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn))
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Aufumn/Uppehalle-planner)
 
 ### GitHub Repository for Research Data
 
@@ -51,8 +51,6 @@ project into the following fenced code block.
 
 - **Research Project Title**: `Uppehälle planner`
 
-- **Research Project Link** (https://github.com/Aufumn/Uppehalle-planner)
-
 
 ## Research Group Contributions
 
@@ -60,6 +58,12 @@ As a member of the Junior Seminar research group, document how you contributed
 to the research community beyond your individual project. This section reflects
 the collaborative nature of research work and your engagement with fellow
 researchers.
+
+- Me and Molly met 2 times to talk about hosting a website I also met with Veronica to talk about the same topic.
+
+- Peer reviewed Issei's Research paper once a week after the second week of making drafts.
+
+- I was helped by Issei with my tool and coming up with ideas on how to test it.
 
 ### Peer Research Feedback
 
