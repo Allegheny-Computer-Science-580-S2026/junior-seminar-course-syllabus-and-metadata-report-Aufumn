@@ -147,23 +147,17 @@ Note particularly meaningful contributions during research group meetings:
 
 Example entries:
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 11 / Research paper review**: Reviewed Issei's paper
+Rivewed's Issei's paper to provide feedback once per week until week 15
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Online mermaid diagrams]
+- **Shared With**: [Small table research group]
+- **Purpose**: [Shared how to make mermaid diagrams online to make them PNGS to render more easily]
 
 Example entries:
 
