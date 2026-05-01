@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Autumn Davison`
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,37 +21,36 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `Aufumn`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal]([https://github.com/Allegheny-Computer-Science-580-S2026/](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn))
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Aufumn/Uppehalle-planner)
 
 ### GitHub Repository for Research Data
 
 - **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
 
-## Research Project Title
+## Research Project Title: 
 
 A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
-```text
-Add the Title of Your Junior Seminar Research Project
-```
+- **Research Project Title**: `Uppehälle planner`
+
 
 ## Research Group Contributions
 
@@ -60,16 +59,53 @@ to the research community beyond your individual project. This section reflects
 the collaborative nature of research work and your engagement with fellow
 researchers.
 
+- Me and Molly met 2 times to talk about hosting a website I also met with Veronica to talk about the same topic.
+
+- Peer reviewed Issei's Research paper once a week after the second week of making drafts.
+
+- I was helped by Issei with my tool and coming up with ideas on how to test it.
+
 ### Peer Research Feedback
 
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
+- **Researcher Name / Project**: [Evan Nelson]
+- **Feedback Provided**: \[Feedback on his chapter 1\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/9)]
+
+- **Researcher Name / Project**: [Coltin Colucci]
+- **Feedback Provided**: \[Feedback on his chapter 2\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Link to their chapter 2 issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/11)]
+
+- **Researcher Name / Project**: [Coltin Colucci]
+- **Feedback Provided**: \[Feedback on his chapter 3\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Link to their chapter 2 issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/9
+)]
+
+- **Researcher Name / Project**: [Evan Nelson]
+- **Feedback Provided**: \[Feedback on his introduction after completion in week 9\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/13)]
+
+- **Researcher Name / Project**: [Issei Hasegawa]
+- **Feedback Provided**: \[Feedback on chapter 1 for junior seminar\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/2)
+
+- **Researcher Name / Project**: [Hannah Brown]
+- **Feedback Provided**: \[Feedback on chapter 2 for junior seminar\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09/issues/5)
+
+- **Researcher Name / Project**: [Evan Nelson]
+- **Feedback Provided**: \[Feedback on his Chapter 4\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [[Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/16)]
+
 
 Example entries:
 
@@ -111,23 +147,17 @@ Note particularly meaningful contributions during research group meetings:
 
 Example entries:
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 11 / Research paper review**: Reviewed Issei's paper
+Rivewed's Issei's paper to provide feedback once per week until week 15
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Online mermaid diagrams]
+- **Shared With**: [Small table research group]
+- **Purpose**: [Shared how to make mermaid diagrams online to make them PNGS to render more easily]
 
 Example entries:
 
